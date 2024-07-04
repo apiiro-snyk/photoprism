@@ -93,7 +93,7 @@
     "url-loader": "^4.1.1",
     "util": "^0.12.5",
     "vue": "^2.7.14",
-    "vue-fullscreen": "^2.6.1",
+    "vue-fullscreen": "^2.6.2",
     "vue-gettext": "^2.1.12",
     "vue-infinite-scroll": "^2.0.2",
     "vue-loader": "^15.10.1",
