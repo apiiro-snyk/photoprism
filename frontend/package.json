@@ -92,7 +92,7 @@
     "tar": "^7.4.0",
     "url-loader": "^4.1.1",
     "util": "^0.12.5",
-    "vue": "^2.7.14",
+    "vue": "^3.0.0",
     "vue-fullscreen": "^2.6.1",
     "vue-gettext": "^2.1.12",
     "vue-infinite-scroll": "^2.0.2",
